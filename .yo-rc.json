@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "BamakoApplication",
+    "packageName": "bamako.application.com",
+    "packageFolder": "bamako/application/com",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": "kafka",
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "react",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.0.1",
+    "jwtSecretKey": "M2EzNTA3YTZkZDQ1MWZhNTEzYjY2YWU4Nzg4ZDQ0ZTZkMWY0ZDg0Yjg4NDg3ZDdmNGE5MDE1OTM2MjNhMGM1NTY3YzQzNDcxODFmYzk5NjQ1ODQ1ODU1YjhlZDUyM2IyMThiYmM1MzQwNTBkNGU2ZGIwZTIwYzY2MzQ3ZDgzMWY=",
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "ngtamian",
+  "repository-name": "bamako-application"
+}
